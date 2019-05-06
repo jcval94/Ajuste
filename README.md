@@ -1,2 +1,2 @@
 # Ajuste
-Funciones para ajustar funciones de distribución.
+Funciones para ajustar funciones de distribución, primea versión del paquete FitUlt.
