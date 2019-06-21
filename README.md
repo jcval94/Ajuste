@@ -1,2 +1,3 @@
-# Ajuste
-Funciones para ajustar funciones de distribución, primea versión del paquete FitUlt.
+# fitter
+This repo is the first version of FitUltD package
+Just to show how it begun
